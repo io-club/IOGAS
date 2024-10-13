@@ -1,0 +1,3 @@
+[submodule "bots/IOGAS-QQ"]
+	path = bots/IOGAS-QQ
+	url = https://github.com/io-club/IOGAS-QQ
